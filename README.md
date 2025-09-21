@@ -15,24 +15,24 @@ Generar reportes básicos para una toma de decisiones más eficiente.
 
 Todo esto se logrará aplicando estructuras de datos adecuadas para optimizar el uso de memoria y los tiempos de ejecución.
 
-🛠️ Tecnologías y Conceptos Aplicados
+## 🛠️ Tecnologías y Conceptos Aplicados
 Este proyecto es una demostración práctica de los siguientes conceptos de la materia:
 
-Arreglos unidimensionales y bidimensionales: Para el almacenamiento de datos básicos.
+* Arreglos unidimensionales y bidimensionales: Para el almacenamiento de datos básicos.
 
-Gestión dinámica de memoria: Para un manejo eficiente de los recursos.
+* Gestión dinámica de memoria: Para un manejo eficiente de los recursos.
 
-Operaciones básicas sobre estructuras de datos: Búsquedas, recorridos y ordenamientos.
+* Operaciones básicas sobre estructuras de datos: Búsquedas, recorridos y ordenamientos.
 
-Listas enlazadas: Para la inscripción de asignaturas.
+* Listas enlazadas: Para la inscripción de asignaturas.
 
-Pilas y colas: Para la gestión de actividades.
+* Pilas y colas: Para la gestión de actividades.
 
-Árboles: Para la representación de relaciones jerárquicas complejas.
+* Árboles: Para la representación de relaciones jerárquicas complejas.
 
-Grafos: Para el manejo de adyacencia, conectividad y recorridos entre elementos.
+* Grafos: Para el manejo de adyacencia, conectividad y recorridos entre elementos.
 
-📅 Estructura del Proyecto y Entregas
+## 📅 Estructura del Proyecto y Entregas
 El desarrollo del proyecto está dividido en varias etapas, cada una enfocada en la implementación de una estructura de datos o concepto específico.
 
 Modelado de datos ✅

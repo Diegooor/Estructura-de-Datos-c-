@@ -11,6 +11,9 @@ Adicionalmente, es necesario automatizar los procesos, de manera que sea posible
 
 Este proyecto busca que pongamos en práctica los conceptos aprendidos en este curso, creando tanto arreglos unidimensionales como bidimensionales, realizando funciones, gestionando la memoria de manera dinámica y aplicando operaciones básicas con estructuras de datos (ordenamientos, recorridos y búsquedas). Adicionalmente, la representación de relaciones complejas, mediante el uso de árboles o grafos, fortalecerá las habilidades algorítmicas y la capacidad para resolver problemas computacionales en contextos aplicados a casos reales.
 
+## Problema
+Actualmente, las notas se están registrando de manera manual, lo que genera errores de escritura y hace que el proceso de búsqueda sea lento, al igual que los cálculos (cuántos estudiantes aprobaron, cuántos reprobaron y notas promedio por grupo o por materia).
+
 ## 🛠️ Tecnologías y Conceptos Aplicados
 Este proyecto es una demostración práctica de los siguientes conceptos de la materia:
 

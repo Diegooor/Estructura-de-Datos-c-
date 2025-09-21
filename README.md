@@ -1,4 +1,5 @@
 📚 Sistema de Gestión Académica Simplificado
+
 Este repositorio contiene el proyecto final de la materia Estructura de Datos. El objetivo es desarrollar una aplicación para la gestión de notas de estudiantes, optimizando el almacenamiento y el procesamiento de los datos mediante el uso de diversas estructuras de datos.
 
 📝 Descripción del Proyecto

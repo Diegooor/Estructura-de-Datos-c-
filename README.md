@@ -2,18 +2,14 @@
 
 Este repositorio contiene el proyecto final de la materia Estructura de Datos. El objetivo es desarrollar una aplicación para la gestión de notas de estudiantes, optimizando el almacenamiento y el procesamiento de los datos mediante el uso de diversas estructuras de datos.
 
-## 📝 Descripción del Proyecto
-Actualmente, la gestión de notas en la institución se realiza de forma manual, lo que provoca errores, lentitud en las búsquedas y dificultades en los cálculos de promedios, aprobados y reprobados.
+## 📝 Descripción
+Una institución de educación requiere una aplicación para la gestión de las notas de los estudiantes. Este sistema debe tener la capacidad de almacenar, organizar y permitir diferentes tipos de consultas; por ejemplo, nombres, códigos, asignaturas inscritas y notas. 
 
-Este proyecto surge como una solución a esta problemática. A través de la aplicación de los conceptos aprendidos en el curso, construiremos un sistema que permita:
+La aplicación desarrollada permitirá el registro y procesamiento de los datos, relacionando las calificaciones de los estudiantes en varias asignaturas del periodo académico.
 
-Almacenar y organizar información de estudiantes, asignaturas y calificaciones.
+Adicionalmente, es necesario automatizar los procesos, de manera que sea posible llevar a cabo búsquedas de estudiantes, cálculos de promedios, identificación de los estudiantes con más altos y bajos rendimientos, estudiantes aprobados y reprobados, oportunidad de presentar actividades de habilitación y generación de reportes básicos. Todo esto lo construiremos aplicando estructuras de datos adecuadas, de manera que se optimice el uso de la memoria y los tiempos de ejecución.
 
-Automatizar procesos como búsquedas, cálculos de promedios e identificación de estudiantes con alto y bajo rendimiento.
-
-Generar reportes básicos para una toma de decisiones más eficiente.
-
-Todo esto se logrará aplicando estructuras de datos adecuadas para optimizar el uso de memoria y los tiempos de ejecución.
+Este proyecto busca que pongamos en práctica los conceptos aprendidos en este curso, creando tanto arreglos unidimensionales como bidimensionales, realizando funciones, gestionando la memoria de manera dinámica y aplicando operaciones básicas con estructuras de datos (ordenamientos, recorridos y búsquedas). Adicionalmente, la representación de relaciones complejas, mediante el uso de árboles o grafos, fortalecerá las habilidades algorítmicas y la capacidad para resolver problemas computacionales en contextos aplicados a casos reales.
 
 ## 🛠️ Tecnologías y Conceptos Aplicados
 Este proyecto es una demostración práctica de los siguientes conceptos de la materia:

@@ -34,16 +34,16 @@ Este proyecto es una demostración práctica de los siguientes conceptos de la m
 ## 📅 Estructura del Proyecto y Entregas
 El desarrollo del proyecto está dividido en varias etapas, cada una enfocada en la implementación de una estructura de datos o concepto específico.
 
-* Modelado de datos ✅
+1- Modelado de datos ✅
 
-* Operaciones básicas sobre estructuras de datos ✅
+2- Operaciones básicas sobre estructuras de datos ✅
 
-* Inscripciones con listas enlazadas 🚧
+3- Inscripciones con listas enlazadas 🚧
 
-* Actividades con pilas y colas 🚧
+4- Actividades con pilas y colas 🚧
 
-* Representación de relaciones complejas mediante árboles 🚧
+5- Representación de relaciones complejas mediante árboles 🚧
 
-* Uso de grafos para el manejo de adyacencia, recorridos y conectividad 🚧
+6- Uso de grafos para el manejo de adyacencia, recorridos y conectividad 🚧
 
-* Integración y entrega final 🚧
+7- Integración y entrega final 🚧
